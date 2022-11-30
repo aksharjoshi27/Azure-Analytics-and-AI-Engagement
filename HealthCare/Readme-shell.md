@@ -292,7 +292,7 @@ THIS DEMO/LAB PROVIDES CERTAIN SOFTWARE TECHNOLOGY/PRODUCT FEATURES AND FUNCTION
 	
 25.	**Enter** eventhub as export name.
 26.	**Select** Telemetry as Type of data to export.
-27.	**Select** eventhub as Destination from drop down.
+27.	Scroll down and expand Destinations section and **Select** eventhub as Destination from drop down.
 28.	**Click** Save.
 
 	![export.](media/export-tab.png)
@@ -302,9 +302,9 @@ THIS DEMO/LAB PROVIDES CERTAIN SOFTWARE TECHNOLOGY/PRODUCT FEATURES AND FUNCTION
 
     ![device dashboard.](media/device-dashboard.png)
 
-31.	**Click** on configure button of Blood Pressure chart.
+31.	**Click** on edit button of heartRate(bpm) chart.
 32.	**Select** Device group from the dropdown.
-33.	**Select** Device Name from the dropdown.
+33.	**Select** Device Name from the Devices dropdown.
 34.	**Click** “+ Capability” button.
 35.	**Select** systolicPressure kpi.
 36.	**Click** “+ Capability” button again.
